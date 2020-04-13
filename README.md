@@ -1,1 +1,1 @@
-# www.oohmy.ga
+github.oohmy.ga
