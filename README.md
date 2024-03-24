@@ -1,5 +1,5 @@
 github.oohmy.ga
 
 ```
-bash <(wget -qO- http://github.oohmy.ga/setup.sh)
+bash <(wget -qO- https://github.com/zhaoloving/github.oohmy.ga/raw/master/setup.sh)
 ```
